@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="yu" size="0.210000 0.280000" />
+    <ImageTarget name="ue" size="0.210000 0.280000" />
+    <ImageTarget name="i" size="0.210000 0.280000" />
+    <ImageTarget name="u" size="0.210000 0.280000" />
+    <ImageTarget name="yo" size="0.210000 0.280000" />
+    <ImageTarget name="o" size="0.210000 0.280000" />
+    <ImageTarget name="yeo" size="0.210000 0.280000" />
+    <ImageTarget name="eo" size="0.210000 0.280000" />
+    <ImageTarget name="ya" size="0.210000 0.280000" />
+    <ImageTarget name="ah" size="0.210000 0.280000" />
+    <ImageTarget name="hieung" size="0.210000 0.280000" />
+    <ImageTarget name="pieup" size="0.210000 0.280000" />
+    <ImageTarget name="tieut" size="0.210000 0.280000" />
+    <ImageTarget name="kieuk" size="0.210000 0.280000" />
+    <ImageTarget name="chieut" size="0.210000 0.280000" />
+    <ImageTarget name="gieut" size="0.210000 0.280000" />
+    <ImageTarget name="ieung" size="0.210000 0.280000" />
+    <ImageTarget name="shiot" size="0.210000 0.280000" />
+    <ImageTarget name="bieup" size="0.210000 0.280000" />
+    <ImageTarget name="mieum" size="0.210000 0.280000" />
+    <ImageTarget name="rieul" size="0.210000 0.280000" />
+    <ImageTarget name="digeut" size="0.210000 0.280000" />
+    <ImageTarget name="nieun" size="0.210000 0.280000" />
+    <ImageTarget name="giyeok" size="0.210000 0.280000" />
+  </Tracking>
+</QCARConfig>

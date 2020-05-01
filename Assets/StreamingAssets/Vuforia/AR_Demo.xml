@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="combine" size="0.150000 0.116209" />
+    <ImageTarget name="hatoo2" size="0.150000 0.231646" />
+    <ImageTarget name="hatoo8" size="0.150000 0.225000" />
+    <ImageTarget name="hatoo7" size="0.150000 0.212155" />
+    <ImageTarget name="2_test" size="0.150000 0.165254" />
+    <ImageTarget name="ken" size="0.150000 0.172967" />
+    <ImageTarget name="1_test" size="0.150000 0.150000" />
+  </Tracking>
+</QCARConfig>
